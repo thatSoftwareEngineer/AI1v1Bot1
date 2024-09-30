@@ -1,0 +1,6 @@
+name: AI1v1Bot
+version: '1'
+main: co.sakurastudios.ai1v1bot.AI1v1Bot
+api-version: '1.21'
+commands:
+  aibot:
